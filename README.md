@@ -1,4 +1,4 @@
-<h1 align="center">Jin Bai
+<h1 align="center">Jin Bai <sub>白金</sub></h1>
 
 <p align="center">
   <strong>Reliable Visual Intelligence &amp; Scientific AI Agents</strong><br>
